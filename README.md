@@ -1,2 +1,5 @@
 # CS-230-Project
-class project
+This is a project I did for one of my classes.
+
+The Gaming Room hired our team to convert their game Draw It or Lose It to be played on any platform. The game requires the system to show images at an exact speed and duration for the game to operate correctly. The documentation in this repository shows how I believe the changes should occur. I think I explained the choices without overcomplicating it. The entire process of creating the design document helped develop code. It created a roadmap to what needed to be done. I would have done more revisions to the document, showing how the plan updated more often. I listened to what they said, asked questions when I was unsure and then reiterated their needs in my own words. This ensured that we were on the same page. The user is the one that will be using the program, they are the ones that need to be listened to, ensuring the usefulness of the application to them. I figured out a game plan to create the code, then I implemented small chunks at a time. Tested often to ensure it worked correctly. All of these techniques are necessary to reduce coding issues and will be used in the future by me.
+
